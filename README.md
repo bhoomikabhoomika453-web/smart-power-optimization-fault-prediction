@@ -66,6 +66,10 @@ A relay-based control mechanism is used for load control when required.
 - Mobile notifications for critical faults
 - Energy consumption analytics
 
+- ## 📊 Results
+
+The system is designed to monitor current, voltage, temperature and vibration parameters and provide real-time visualization through the Blynk IoT platform. The implemented fault-detection logic can trigger motor protection and alerts when predefined conditions are detected.
+
 ## 👩‍💻 Developed By
 
 **Bhoomika N Chikkannavar**
